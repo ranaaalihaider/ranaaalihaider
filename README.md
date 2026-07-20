@@ -155,7 +155,7 @@ DevOps & Tools   ██████████████████░░░
 <summary>🏆 <b>GitHub Trophies</b> — click to load</summary>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranaaalihaider&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=ranaaalihaider&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 </details>
 
@@ -178,7 +178,7 @@ DevOps & Tools   ██████████████████░░░
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/output/github-contribution-grid-snake.svg" />
+    <img alt="🐍 Snake animation (generating... check back in a few minutes)" src="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 </details>
