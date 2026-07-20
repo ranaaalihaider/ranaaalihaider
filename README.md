@@ -122,7 +122,7 @@ available_for: "Freelance, Collaboration, Open Source"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranaaalihaider&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=ranaaalihaider&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -131,12 +131,12 @@ available_for: "Freelance, Collaboration, Open Source"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=ranaaalihaider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ranaaalihaider&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api?username=ranaaalihaider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ranaaalihaider&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaaalihaider&theme=tokyonight&hide_border=true&background=0d1117&sideNums=38BDF8&currStreakNum=38BDF8&fire=FF6B6B&ring=38BDF8" />
+  <img loading="lazy" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaaalihaider&theme=tokyonight&hide_border=true&background=0d1117&sideNums=38BDF8&currStreakNum=38BDF8&fire=FF6B6B&ring=38BDF8" />
 </div>
 
 ---
@@ -145,7 +145,7 @@ available_for: "Freelance, Collaboration, Open Source"
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaaalihaider&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" />
+  <img loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=ranaaalihaider&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" />
 </div>
 
 ---
@@ -157,7 +157,7 @@ available_for: "Freelance, Collaboration, Open Source"
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/output/github-contribution-grid-snake.svg" />
+    <img loading="lazy" alt="Snake animation" src="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -167,12 +167,12 @@ available_for: "Freelance, Collaboration, Open Source"
 ## ✍️ Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img loading="lazy" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
 
 <!-- ══════════════════════ FOOTER ══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img loading="lazy" width="100%" src="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/main/assets/footer.svg" alt="footer" />
 </div>
