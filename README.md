@@ -53,7 +53,7 @@
 
 <h3 align="left">📈 Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaaalihaider&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranaaalihaider&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <h3 align="left">✍️ Random Dev Quote</h3>
