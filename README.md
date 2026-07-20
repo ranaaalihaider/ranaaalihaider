@@ -1,11 +1,11 @@
 <!-- ══════════════════════ HEADER BANNER ══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rana%20Ali%20Haider&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20ERP%20Developer%20%7C%20IoT%20%26%20AI%20Builder&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:38bdf8&height=200&section=header&text=Rana+Ali+Haider&fontSize=50&fontColor=38bdf8&fontAlignY=35&desc=Software+Engineer+%7C+ERP+Developer+%7C+IoT+%26+AI+Builder&descAlignY=55&descSize=18&descColor=ffffff" alt="Header" />
 </div>
 
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&lines=🚀+Building+Enterprise+ERP+Systems;🌐+Full-Stack+MERN+%26+Laravel+Developer;📱+Flutter+Mobile+App+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🔌+IoT+%26+Embedded+Systems+Engineer;🛰️+GPS+Tracking+%26+Fleet+Management+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Enterprise+ERP+Systems;Full-Stack+MERN+%26+Laravel+Developer;Flutter+Mobile+App+Developer;AI+%26+Machine+Learning+Enthusiast;IoT+%26+Embedded+Systems+Engineer;GPS+Tracking+%26+Fleet+Management+Builder" alt="Typing SVG" />
 </div>
 
 <br/>
