@@ -1,6 +1,6 @@
 <!-- ══════════════════════ HEADER BANNER ══════════════════════ -->
 <div align="center">
-  <img width="100%" src="./assets/header.svg" alt="Rana Ali Haider" />
+  <img width="100%" src="https://raw.githubusercontent.com/ranaaalihaider/ranaaalihaider/main/assets/header.svg" alt="Rana Ali Haider" />
 </div>
 
 <!-- ══════════════════════ TYPING ANIMATION ══════════════════════ -->
